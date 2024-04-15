@@ -7,6 +7,7 @@ projects:
       branch: master
 metadata:
   generateName: cotd2
+  schemaVersion: 2.2.0
 components:
   - id: redhat/php/latest
     type: chePlugin
